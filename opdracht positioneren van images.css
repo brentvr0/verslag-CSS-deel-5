@@ -1,0 +1,23 @@
+body {
+    font-size: 1.25em;
+}
+
+table {
+    border-spacing: 10px 10px;
+    border-collapse: separate;
+}
+
+td {
+    border: 1px black solid;
+    width: 100%;
+}
+
+.odd{
+    float: right;
+    text-align: left;
+}
+
+.even{
+    float: left;
+    text-align: right;
+}
